@@ -1,0 +1,82 @@
+﻿<Root>
+<Shape>
+  <ID>1</ID>
+  <Type>Rounded Rectangle</Type>
+  <Name>sample1</Name>
+  <Text>sample1</Text>
+  <PinX>4</PinX>
+  <PinY>7</PinY>
+</Shape>
+<Connector>
+  <FromShape>sample1</FromShape>
+  <ToShape>sample2</ToShape>
+</Connector>
+<Connector>
+  <FromShape>sample1</FromShape>
+  <ToShape>sample3</ToShape>
+</Connector>
+<Connector>
+  <FromShape>sample1</FromShape>
+  <ToShape>sample4</ToShape>
+</Connector>
+<Shape>
+  <ID>2</ID>
+  <Type>Square</Type>
+  <Name>sample2</Name>
+  <Text>sample2</Text>
+  <PinX>4</PinX>
+  <PinY>4.96259842519685</PinY>
+</Shape>
+<Shape>
+  <ID>3</ID>
+  <Type>Square</Type>
+  <Name>sample3</Name>
+  <Text>sample3</Text>
+  <PinX>5.9685039370078741</PinX>
+  <PinY>5.4547244094488185</PinY>
+</Shape>
+<Connector>
+  <FromShape>sample3</FromShape>
+  <ToShape>sample5</ToShape>
+</Connector>
+<Connector>
+  <FromShape>sample3</FromShape>
+  <ToShape>sample6</ToShape>
+</Connector>
+<Shape>
+  <ID>4</ID>
+  <Type>Square</Type>
+  <Name>sample4</Name>
+  <Text>sample4</Text>
+  <PinX>2.0314960629921259</PinX>
+  <PinY>5.4547244094488185</PinY>
+</Shape>
+<Connector>
+  <FromShape>sample4</FromShape>
+  <ToShape>sample7</ToShape>
+</Connector>
+<Shape>
+  <ID>5</ID>
+  <Type>Triangle</Type>
+  <Name>sample5</Name>
+  <Text>sample5</Text>
+  <PinX>5.9685039370078741</PinX>
+  <PinY>3.5427821522309664</PinY>
+</Shape>
+<Shape>
+  <ID>6</ID>
+  <Type>Triangle</Type>
+  <Name>sample6</Name>
+  <Text>sample6</Text>
+  <PinX>7.9370078740157481</PinX>
+  <PinY>3.5427821522309664</PinY>
+</Shape>
+<Shape>
+  <ID>7</ID>
+  <Type>Hexagon</Type>
+  <Name>sample7</Name>
+  <Text>sample7</Text>
+  <PinX>2.0314960629921259</PinX>
+  <PinY>3.6594488188976371</PinY>
+</Shape>
+</Root>

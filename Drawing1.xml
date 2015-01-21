@@ -1,0 +1,138 @@
+﻿<Root>
+<Shape>
+  <ID>1</ID>
+  <Type>Rectangle</Type>
+  <Name>Rectangle</Name>
+  <Text>Igor1</Text>
+  <PinX>5.3149606299212593</PinX>
+  <PinY>7.2834645669291334</PinY>
+</Shape>
+<Connector>
+  <FromShape>Rectangle</FromShape>
+  <ToShape>Rectangle.2</ToShape>
+</Connector>
+<Connector>
+  <FromShape>Rectangle</FromShape>
+  <ToShape>Rectangle.3</ToShape>
+</Connector>
+<Connector>
+  <FromShape>Rectangle</FromShape>
+  <ToShape>Rectangle.4</ToShape>
+</Connector>
+<Shape>
+  <ID>2</ID>
+  <Type>Rectangle</Type>
+  <Name>Rectangle.2</Name>
+  <Text>Igor1</Text>
+  <PinX>2.5590551181102348</PinX>
+  <PinY>5.5905511811023612</PinY>
+</Shape>
+<Connector>
+  <FromShape>Rectangle.2</FromShape>
+  <ToShape>Rectangle.5</ToShape>
+</Connector>
+<Connector>
+  <FromShape>Rectangle.2</FromShape>
+  <ToShape>Rectangle.6</ToShape>
+</Connector>
+<Shape>
+  <ID>3</ID>
+  <Type>Rectangle</Type>
+  <Name>Rectangle.3</Name>
+  <Text>Igor1</Text>
+  <PinX>5.1181102362204722</PinX>
+  <PinY>5.5905511811023612</PinY>
+</Shape>
+<Connector>
+  <FromShape>Rectangle.3</FromShape>
+  <ToShape>Circle</ToShape>
+</Connector>
+<Connector>
+  <FromShape>Rectangle.3</FromShape>
+  <ToShape>Circle.8</ToShape>
+</Connector>
+<Shape>
+  <ID>4</ID>
+  <Type>Rectangle</Type>
+  <Name>Rectangle.4</Name>
+  <Text>Igor1</Text>
+  <PinX>8.5826771653543279</PinX>
+  <PinY>5.5905511811023612</PinY>
+</Shape>
+<Connector>
+  <FromShape>Rectangle.4</FromShape>
+  <ToShape>Right Triangle</ToShape>
+</Connector>
+<Connector>
+  <FromShape>Rectangle.4</FromShape>
+  <ToShape>Right Triangle.10</ToShape>
+</Connector>
+<Shape>
+  <ID>5</ID>
+  <Type>Rectangle</Type>
+  <Name>Rectangle.5</Name>
+  <Text>Igor1</Text>
+  <PinX>1.377952755905512</PinX>
+  <PinY>3.5433070866141718</PinY>
+</Shape>
+<Connector>
+  <FromShape>Rectangle.5</FromShape>
+  <ToShape>Hexagon</ToShape>
+</Connector>
+<Shape>
+  <ID>6</ID>
+  <Type>Rectangle</Type>
+  <Name>Rectangle.6</Name>
+  <Text>Igor1</Text>
+  <PinX>3.2480314960629921</PinX>
+  <PinY>3.5433070866141718</PinY>
+</Shape>
+<Shape>
+  <ID>7</ID>
+  <Type>Circle</Type>
+  <Name>Circle</Name>
+  <Text>Igor2</Text>
+  <PinX>5.1181102362204722</PinX>
+  <PinY>3.5433070866141718</PinY>
+</Shape>
+<Connector>
+  <FromShape>Circle</FromShape>
+  <ToShape>Hexagon</ToShape>
+</Connector>
+<Shape>
+  <ID>8</ID>
+  <Type>Circle</Type>
+  <Name>Circle.8</Name>
+  <Text>Igor2</Text>
+  <PinX>6.988188976377951</PinX>
+  <PinY>3.5433070866141732</PinY>
+</Shape>
+<Shape>
+  <ID>9</ID>
+  <Type>Right Triangle</Type>
+  <Name>Right Triangle</Name>
+  <Text>Igor3</Text>
+  <PinX>8.8582677165354315</PinX>
+  <PinY>3.5433070866141732</PinY>
+</Shape>
+<Connector>
+  <FromShape>Right Triangle</FromShape>
+  <ToShape>Hexagon</ToShape>
+</Connector>
+<Shape>
+  <ID>10</ID>
+  <Type>Right Triangle</Type>
+  <Name>Right Triangle.10</Name>
+  <Text>Igor3</Text>
+  <PinX>10.43307086614173</PinX>
+  <PinY>3.5433070866141732</PinY>
+</Shape>
+<Shape>
+  <ID>20</ID>
+  <Type>Hexagon</Type>
+  <Name>Hexagon</Name>
+  <Text></Text>
+  <PinX>5.8267716535433056</PinX>
+  <PinY>1.2598425196850389</PinY>
+</Shape>
+</Root>

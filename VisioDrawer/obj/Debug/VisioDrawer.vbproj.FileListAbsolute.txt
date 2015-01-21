@@ -1,0 +1,16 @@
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\bin\Debug\VisioDrawer.exe
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\bin\Debug\VisioDrawer.pdb
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\bin\Debug\VisioDrawer.xml
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.vbproj.ResolveComReference.cache
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.VisioDrawerForm.resources
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.Resources.resources
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.vbproj.GenerateResource.Cache
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.exe
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.xml
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.pdb
+C:\Users\igor.dimcevski\Desktop\VisioDrawer\VisioDrawer\bin\Debug\VisioDrawer.exe.config
+D:\Dev\Projects\VisualStudio\VisioDrawer\VisioDrawer\bin\Debug\VisioDrawer.exe.config
+D:\Dev\Projects\VisualStudio\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.vbproj.ResolveComReference.cache
+D:\Dev\Projects\VisualStudio\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.exe
+D:\Dev\Projects\VisualStudio\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.xml
+D:\Dev\Projects\VisualStudio\VisioDrawer\VisioDrawer\obj\Debug\VisioDrawer.pdb
